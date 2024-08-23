@@ -53,4 +53,4 @@ This simple implementation captures the essence of the classic Snake game, focus
 https://github.com/AmirAliuA/snake-game/releases/tag/1.0
 
 # Game Demo
-![Game Demo](/images/work/index/snake-game/snake-demo.png)
+![Game Demo](https://amiraliu.vercel.app/images/work/index/snake-game/snake-demo.png)
