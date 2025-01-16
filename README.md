@@ -1,9 +1,8 @@
-# snake-game
-[openjdk22](https://jdk.java.net/22/) 
-<br>
-[java22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
+# Snake Game
+This is the classic Snake game implemented in Java using Swing for the graphical interface.
 
-This is a classic Snake game implemented in Java using Swing for the graphical interface.
+### Requirements
+[openjdk22](https://jdk.java.net/22/)  | [java22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
 
 ### Game Overview
 - Objective: Control the snake to eat food and grow in length while avoiding collisions with itself and the game boundaries.
@@ -48,9 +47,9 @@ Game Board:
 
 This simple implementation captures the essence of the classic Snake game, focusing on core gameplay mechanics and providing a fun, interactive experience.
 
----
 # Download
 https://github.com/AmirAliuA/snake-game/releases/tag/1.0
 
+---
 # Game Demo
 ![Game Demo](https://amiraliu.vercel.app/images/work/index/snake-game/snake-demo.png)
